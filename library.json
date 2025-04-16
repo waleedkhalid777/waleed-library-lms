@@ -1,1 +1,44 @@
-
+[ 
+  {
+    "title": "pyhthon crash course",
+    "author": "eric matthes",
+    "publication_year": 2019,
+    "genre": "programming,
+    "read_status": false,
+    "added data":"25-03-11 10:02:40
+  },
+ {
+  "title": "Python Crash Course",
+  "author": "Eric Matthes",
+  "publication_year": 2019,
+  "genre": "Programming",
+  "read_status": false,
+  "added_data": "25-03-11 10:02:40"
+},
+  {
+  "title": "You Don't Know JS",
+  "author": "Kyle Simpson",
+  "publication_year": 2014,
+  "genre": "JavaScript",
+  "read_status": true,
+  "added_data": "25-03-13 09:15:30"
+},
+  {
+  "title": "The Pragmatic Programmer",
+  "author": "Andrew Hunt and David Thomas",
+  "publication_year": 1999,
+  "genre": "Software Development",
+  "read_status": false,
+  "added_data": "25-03-13 11:30:00"
+},
+  {
+  "title": "Deep Learning with Python",
+  "author": "François Chollet",
+  "publication_year": 2017,
+  "genre": "Artificial Intelligence",
+  "read_status": false,
+  "added_data": "25-03-14 13:30:45"
+} 
+]
+    
+    
